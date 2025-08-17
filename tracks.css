@@ -1,0 +1,204 @@
+.desktop-4,
+.desktop-4 * {
+  box-sizing: border-box;
+}
+.desktop-4 {
+  background: #3a2756;
+  height: 1047px;
+  position: relative;
+  overflow: hidden;
+}
+.about-this-site {
+  background: rgba(77, 107, 8, 0.75);
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: rgba(188, 245, 56, 0.83);
+  border-width: 1px;
+  width: 564px;
+  height: 438px;
+  position: absolute;
+  left: 801px;
+  top: 482px;
+  overflow: hidden;
+}
+.property-1-default {
+  width: 524px;
+  height: 332px;
+  position: relative;
+}
+.about-this-site-boasts-many-tracks-developed-by-independent-artists-support-them {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  right: 0%;
+  left: 0.38%;
+  width: 99.62%;
+  bottom: -18.98%;
+  top: 0%;
+  height: 118.98%;
+}
+.about-this-site-boasts-many-tracks-developed-by-independent-artists-support-them-span {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 128px;
+  font-weight: 400;
+}
+.about-this-site-boasts-many-tracks-developed-by-independent-artists-support-them-span2 {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.back {
+  background: rgba(77, 107, 8, 0.75);
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #bcf538;
+  border-width: 1px;
+  width: 307px;
+  height: 156px;
+  position: absolute;
+  left: 1083px;
+  top: 47px;
+  overflow: hidden;
+}
+.property-1-default2 {
+  width: 350px;
+  height: 227px;
+  position: relative;
+}
+.back2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  right: 26%;
+  left: 0%;
+  width: 74%;
+  bottom: 49.78%;
+  top: 0%;
+  height: 50.22%;
+}
+.track-5 {
+  background: rgba(143, 39, 164, 0.94);
+  border-radius: 40px;
+  width: 464px;
+  height: 187px;
+  position: absolute;
+  left: 55px;
+  top: 47px;
+}
+.info-about-the-track-will-go-here {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ArchitectsDaughter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 192px;
+  top: 0px;
+  width: 259px;
+  height: 187px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #8a38f5;
+  border-width: 1px;
+  width: 201px;
+  height: 187px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.property-1-default-hover-default {
+  width: 161px;
+  height: 147px;
+  position: relative;
+}
+.rectangle2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.track-1 {
+  background: rgba(143, 39, 164, 0.94);
+  border-radius: 40px;
+  width: 464px;
+  height: 187px;
+  position: absolute;
+  left: 55px;
+  top: 265px;
+}
+.info-about-the-track-will-go-here2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Anybody-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 205px;
+  top: 0px;
+  width: 232px;
+  height: 187px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.track-52 {
+  background: rgba(143, 39, 164, 0.94);
+  border-radius: 40px;
+  width: 464px;
+  height: 187px;
+  position: absolute;
+  left: 55px;
+  top: 483px;
+}
+.info-about-the-track-will-go-here3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "IslandMoments-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 205px;
+  top: 0px;
+  width: 232px;
+  height: 187px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.track-12 {
+  background: rgba(143, 39, 164, 0.94);
+  border-radius: 40px;
+  width: 464px;
+  height: 187px;
+  position: absolute;
+  left: 55px;
+  top: 701px;
+}
+.info-about-the-track-will-go-here4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Italiana-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 205px;
+  top: 0px;
+  width: 232px;
+  height: 187px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
